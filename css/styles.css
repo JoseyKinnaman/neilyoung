@@ -1,11 +1,15 @@
 img{
     float: left;
+    padding:10px;
 }
 
 .sidebar{
     float: right;
     width: 300px;
     background-color: gold;
+    border: 20px solid black;
+    padding: 1px;
+    margin: 12px;
 }
 h1 {
     text-align: center;
@@ -13,7 +17,9 @@ h1 {
 .column {
     width: 300px;
     float: left;
+    padding: 10px;
 }
 .pic2 {
     width: 150%;
+    padding: 10px;
 }
