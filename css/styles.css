@@ -7,3 +7,10 @@ img{
     width: 300px;
     background-color: gold;
 }
+h1 {
+    text-align: center;
+}
+.column {
+    width: 300px;
+    float: left;
+}
