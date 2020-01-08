@@ -1,9 +1,9 @@
-img{
+.pic1 {
     float: left;
     padding:10px;
 }
 
-.sidebar{
+.sidebar {
     float: right;
     width: 300px;
     background-color: gold;
@@ -14,12 +14,23 @@ img{
 h1 {
     text-align: center;
 }
-.column {
+.column1 {
     width: 300px;
     float: left;
     padding: 10px;
+    background-color: black;
+    margin: 10px;
+}
+.column2 {
+    width: 300px;
+    float: left;
+    padding: 10px;
+    background-color: gold;
+    margin: 10px;
 }
 .pic2 {
-    width: 150%;
-    padding: 10px;
+    width: 100%;
+}
+.text {
+    color: whitesmoke
 }
